@@ -1,0 +1,1 @@
+"Este proyecto contiene la página web de una tienda de detalles para fechas especiales"
